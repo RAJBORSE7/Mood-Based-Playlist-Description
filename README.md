@@ -1,4 +1,4 @@
-# Mood-Based Music Playlist Generator
+# Mood-Based Playlist Description Generator using Generative AI
 
 Welcome to the Mood-Based Music Playlist Generator! This web application helps you discover music that matches your mood by generating curated playlists based on your current emotional state and preferred music genre.
 
