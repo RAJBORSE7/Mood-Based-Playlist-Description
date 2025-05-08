@@ -8,10 +8,6 @@ Welcome to the Mood-Based Music Playlist Generator! This web application helps y
 - Text Analysis: Enter a text to analyze its sentiment and get a mood-based playlist suggestion.
 - User-Friendly Interface: Enjoy a clean, intuitive design with responsive layout and easy navigation.
 
-## Demo
-
-<img src="demo.png">
-
 ## Getting Started
 ### Prerequisites
 - Web browser (e.g., Chrome, Firefox, Safari)
@@ -38,14 +34,3 @@ Open index.html in your preferred web browser to view the application.
 
 ## Customization
 You can easily add more genres or moods by updating the options in the index.html file and the playlist data in script.js. For adding new styles or modifying existing ones, update the style.css file.
-
-## Contributing
-If you’d like to contribute to this project, please fork the repository, make your changes, and submit a pull request. Contributions and feedback are always welcome!
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-For any questions or issues, please contact amitdey1350@gmail.com
-
-<a href="https://amitfr.tech">My protfolio<a>
